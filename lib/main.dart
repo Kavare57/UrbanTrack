@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Vistas/home_page.dart';
+import 'vistas/home_page.dart';
 
 void main() {
   runApp(MyApp());
